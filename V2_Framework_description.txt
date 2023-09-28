@@ -1,10 +1,12 @@
-Very basic framework using POM.
 
 
-Keep Locators Separate - NO
-Keep Test data seperate - NO
-Config - NO
+2 Test cases
+
+
+Keep Locators Separate - YES
+Config - YES
 Conftest - NO
+Keep Test data seperate - NO
 Wait - NO
 Assertion - NO
 Pytest basic Reporting  - NO
@@ -13,6 +15,6 @@ Logging - NO
 Data Driven - NO
 DocString - NO
 Separate Config - NO
-Parametrization - NO 
+Parametrization - NO
 Error Handling - NO
 Listeners - NO
