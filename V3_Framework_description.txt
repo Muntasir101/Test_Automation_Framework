@@ -1,17 +1,14 @@
 
-
 2 Test cases
-
 
 Keep Locators Separate - YES
 Config - YES
+Keep Test data separate - YES
+Logging - YES
 Conftest - NO
-Keep Test data seperate - NO
-Wait - NO
 Assertion - NO
 Pytest basic Reporting  - NO
 Pytest Advanced Reporting(Using pytest HTML reporter) - NO
-Logging - NO
 Data Driven - NO
 DocString - NO
 Separate Config - NO

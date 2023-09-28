@@ -1,0 +1,12 @@
+2023-09-24 19:49:50,133 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 19:49:52,320 - tests.test_sample - INFO - Enter UsernameAdmin
+2023-09-24 19:49:52,320 - tests.test_sample - INFO - Enter Usernameadmin123
+2023-09-24 19:50:14,000 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 19:50:17,307 - tests.test_sample - INFO - Enter UsernameAdmin invalid
+2023-09-24 19:50:17,307 - tests.test_sample - INFO - Enter Username123456
+2023-09-24 19:51:39,219 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 19:51:41,924 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 19:51:41,924 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 19:52:10,402 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 19:52:13,184 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 19:52:13,184 - tests.test_sample - INFO - Enter Password: 123456
