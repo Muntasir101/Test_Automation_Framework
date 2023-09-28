@@ -1,0 +1,18 @@
+Very basic framework using POM.
+
+
+Keep Locators Separate - NO
+Keep Test data seperate - NO
+Config - NO
+Conftest - NO
+Wait - NO
+Assertion - NO
+Pytest basic Reporting  - NO
+Pytest Advanced Reporting(Using pytest HTML reporter) - NO
+Logging - NO
+Data Driven - NO
+DocString - NO
+Separate Config - NO
+Parametrization - NO 
+Error Handling - NO
+Listeners - NO

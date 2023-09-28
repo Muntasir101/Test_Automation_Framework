@@ -1,0 +1,32 @@
+1695560600648	geckodriver	INFO	Listening on 127.0.0.1:57220
+1695560603694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofilehRkUKA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695560604613	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695560604714	Marionette	INFO	Listening on port 57233
+WebDriver BiDi listening on ws://127.0.0.1:57221
+Read port: 57233
+1695560605078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57221/devtools/browser/5f985db3-2797-4563-b7fa-2333cb3b36a4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1695560622783	Marionette	INFO	Stopped listening on port 57233
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/password-recipes getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1695560641815	geckodriver	INFO	Listening on 127.0.0.1:57297
+1695560644858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UseR\\AppData\\Local\\Temp\\rust_mozprofileDtpx7Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695560645179	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695560645250	Marionette	INFO	Listening on port 57308
+WebDriver BiDi listening on ws://127.0.0.1:57298
+Read port: 57308
+1695560645463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57298/devtools/browser/9f0db9ff-30f7-4b5f-8a43-d7238fde175f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1695560659202	Marionette	INFO	Stopped listening on port 57308
+Dynamically enable window occlusion 1
