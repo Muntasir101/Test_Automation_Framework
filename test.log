@@ -10,3 +10,73 @@
 2023-09-24 19:52:10,402 - tests.test_sample - INFO - Starting the Invalid login test
 2023-09-24 19:52:13,184 - tests.test_sample - INFO - Enter Username: Admin invalid
 2023-09-24 19:52:13,184 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:06:47,823 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:06:51,580 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:06:51,580 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:06:51,580 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:06:51,580 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:07:11,573 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:07:14,570 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:07:14,570 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:07:14,570 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:07:14,571 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:13:25,202 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:13:28,364 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:13:28,364 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:13:28,364 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:13:28,364 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:13:45,947 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:13:49,625 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:13:49,625 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:13:49,625 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:13:49,625 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:21:11,769 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:21:20,953 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:21:20,953 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:21:20,953 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:21:20,953 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:21:50,831 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:21:59,268 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:21:59,268 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:21:59,268 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:21:59,268 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:40:45,593 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:40:53,803 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:40:53,803 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:40:53,803 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:40:53,803 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:41:15,640 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:41:23,469 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:41:23,469 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:41:23,469 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:41:23,469 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:44:41,673 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:44:48,958 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:44:48,958 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:44:48,958 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:44:48,958 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:45:14,365 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:45:23,295 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:45:23,295 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:45:23,295 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:45:23,295 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:53:29,029 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:53:38,307 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:53:38,307 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:53:38,307 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:53:38,307 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:53:55,827 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:54:03,977 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:54:03,977 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:54:03,977 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:54:03,977 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:55:30,987 - tests.test_sample - INFO - Starting the valid login test
+2023-09-24 20:55:38,199 - tests.test_sample - INFO - Enter Username: Admin
+2023-09-24 20:55:38,199 - tests.test_sample - INFO - Enter Password: admin123
+2023-09-24 20:55:38,199 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:55:38,200 - tests.test_sample - INFO - --------------------------------
+2023-09-24 20:56:11,772 - tests.test_sample - INFO - Starting the Invalid login test
+2023-09-24 20:56:20,274 - tests.test_sample - INFO - Enter Username: Admin invalid
+2023-09-24 20:56:20,274 - tests.test_sample - INFO - Enter Password: 123456
+2023-09-24 20:56:20,274 - tests.test_sample - INFO - Test Case Execution Completed.
+2023-09-24 20:56:20,274 - tests.test_sample - INFO - --------------------------------

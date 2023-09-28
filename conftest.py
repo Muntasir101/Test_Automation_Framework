@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-from utils.config import URL
+from utils.config import URL, BROWSER
 
 @pytest.fixture
 def setup():
