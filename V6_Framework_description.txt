@@ -11,7 +11,7 @@ Assertion - YES
 Wait - NO
 Pytest basic Reporting - YES
 Pytest Advanced Reporting(Using pytest HTML reporter) - Yes
-Data Driven - NO
+Data Driven - YES
 DocString - NO
 Separate Config - NO
 Parametrization - NO

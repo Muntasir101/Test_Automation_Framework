@@ -1,6 +1,9 @@
 run all:
 pytest -v
 
+run specific tests:
+pytest .\tests\test_login_dataDriven.py
+
 for basic pytest report:
 pytest --html=./report/basic_report.html
 
