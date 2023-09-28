@@ -2,8 +2,6 @@ import pytest
 from selenium import webdriver
 from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
-from utils.config import URL
-from utils.config import URL, BROWSER
 from data.login_data import LoginTestData
 import logging
 from utils.config import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME

@@ -1,0 +1,8 @@
+run all:
+pytest -v
+
+for basic pytest report:
+pytest --html=./report/basic_report.html
+
+for advance pytest report:
+pytest --html-report=./report/advance_report.html

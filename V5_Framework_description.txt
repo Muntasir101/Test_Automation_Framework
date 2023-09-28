@@ -1,4 +1,4 @@
-
+Very basic framework using POM.
 
 2 Test cases
 
@@ -9,8 +9,8 @@ Logging - YES
 Conftest - YES
 Assertion - YES
 Wait - NO
-Pytest basic Reporting  - NO
-Pytest Advanced Reporting(Using pytest HTML reporter) - NO
+Pytest basic Reporting - YES
+Pytest Advanced Reporting(Using pytest HTML reporter) - Yes
 Data Driven - NO
 DocString - NO
 Separate Config - NO
