@@ -3,7 +3,7 @@ from selenium import webdriver
 from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
 import logging
-from utils.config import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME
+from config.configuration import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME
 import time
 from utils.excel_utils import *
 
@@ -34,6 +34,18 @@ test_results = []
 @pytest.mark.parametrize("username, password, expected_result",
                          read_test_data(EXCEL_FILE, SHEET_NAME).values)
 def test_login(setup, username, password, expected_result):
+    """
+    Perform login tests using data from an Excel file.
+
+    Args:
+        setup: The test setup including the WebDriver instance.
+        username (str): The username for the login attempt.
+        password (str): The password for the login attempt.
+        expected_result (str): The expected result ('valid' or 'invalid').
+
+    Returns:
+        None
+    """
     logger.info("Starting the login test")
     login_page = LoginPage(setup)
     login_page.login(username, password)
@@ -67,6 +79,15 @@ def test_login(setup, username, password, expected_result):
 # After all tests have run, write the test results to the Excel file
 @pytest.fixture(scope="session", autouse=True)
 def write_test_results_to_excel(request):
+    """
+    Fixture to write the test results to an Excel file after all tests have run.
+
+    Args:
+        request: The Pytest request object.
+
+    Returns:
+        None
+    """
     def finalize():
         # Load the existing Excel file
         existing_data = pd.read_excel(EXCEL_FILE, sheet_name=SHEET_NAME)

@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-from utils.config import URL, BROWSER
+from config.configuration import URL, BROWSER
 
 @pytest.fixture
 def setup():
@@ -8,11 +8,12 @@ def setup():
     if BROWSER == "chrome":
         # Use Chrome WebDriver
         driver = webdriver.Chrome()
+        driver.maximize_window()
     elif BROWSER == "firefox":
         # Use Firefox WebDriver
         driver = webdriver.Firefox()
     else:
-        # Handle unsupported browsers or configurations
+        # Handle unsupported browsers or config
         raise ValueError("Unsupported browser:", BROWSER)
 
     driver.get(URL)

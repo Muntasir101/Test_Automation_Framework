@@ -4,7 +4,7 @@ from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
 from data.login_data import LoginTestData
 import logging
-from utils.config import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME
+from config.configuration import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME
 import time
 import conftest
 
@@ -25,6 +25,12 @@ logger.addHandler(file_handler)
 
 
 def test_valid_login(setup):
+    """
+    Test a valid login scenario.
+
+    Args:
+        setup: The test setup including the WebDriver instance.
+    """
     logger.info("Starting the valid login test")
     login_page = LoginPage(setup)
     login_page.login(LoginTestData.VALID_USERNAME, LoginTestData.VALID_PASSWORD)
@@ -36,9 +42,16 @@ def test_valid_login(setup):
     # Add assertions and further test steps
     dashboard_page = DashboardPage(setup)
     assert dashboard_page.get_dashboard_text() == "Dashboard"
+    capture_screenshot(setup, "test_Login_valid")
 
 
 def test_invalid_login(setup):
+    """
+    Test an invalid login scenario.
+
+    Args:
+        setup: The test setup including the WebDriver instance.
+    """
     logger.info("Starting the Invalid login test")
     login_page = LoginPage(setup)
     login_page.login(LoginTestData.INVALID_USERNAME, LoginTestData.INVALID_PASSWORD)
@@ -50,3 +63,4 @@ def test_invalid_login(setup):
     # Add assertions and further test steps
     # Assert that an error message is displayed when the login is invalid.
     assert login_page.get_error_message() == "Invalid credentials"
+    capture_screenshot(setup, "test_Login_invalid")

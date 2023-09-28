@@ -1,0 +1,46 @@
+2023-09-24 23:59:43,266 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-24 23:59:55,155 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin
+2023-09-24 23:59:55,155 - tests.test_login_dataDriven_adv - INFO - Enter Password: admin123
+2023-09-24 23:59:55,155 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-24 23:59:55,155 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:00:14,800 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:00:26,172 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin2
+2023-09-25 00:00:26,172 - tests.test_login_dataDriven_adv - INFO - Enter Password: sdsaddsad32
+2023-09-25 00:00:26,173 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:00:26,173 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:02:49,066 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:03:01,564 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin
+2023-09-25 00:03:01,564 - tests.test_login_dataDriven_adv - INFO - Enter Password: admin123
+2023-09-25 00:03:01,564 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:03:01,564 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:03:23,916 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:03:33,581 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin2
+2023-09-25 00:03:33,581 - tests.test_login_dataDriven_adv - INFO - Enter Password: sdsaddsad32
+2023-09-25 00:03:33,581 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:03:33,581 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:07:13,632 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:07:45,077 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:07:55,651 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin2
+2023-09-25 00:07:55,651 - tests.test_login_dataDriven_adv - INFO - Enter Password: sdsaddsad32
+2023-09-25 00:07:55,651 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:07:55,651 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:15:12,370 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:15:18,422 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin
+2023-09-25 00:15:18,422 - tests.test_login_dataDriven_adv - INFO - Enter Password: admin123
+2023-09-25 00:15:18,422 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:15:18,422 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:15:34,773 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:15:40,980 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin2
+2023-09-25 00:15:40,980 - tests.test_login_dataDriven_adv - INFO - Enter Password: sdsaddsad32
+2023-09-25 00:15:40,980 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:15:40,980 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:17:31,436 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:17:37,165 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin
+2023-09-25 00:17:37,165 - tests.test_login_dataDriven_adv - INFO - Enter Password: admin123
+2023-09-25 00:17:37,165 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:17:37,165 - tests.test_login_dataDriven_adv - INFO - --------------------------------
+2023-09-25 00:17:50,997 - tests.test_login_dataDriven_adv - INFO - Starting the login test
+2023-09-25 00:17:58,113 - tests.test_login_dataDriven_adv - INFO - Enter Username: Admin2
+2023-09-25 00:17:58,113 - tests.test_login_dataDriven_adv - INFO - Enter Password: sdsaddsad32
+2023-09-25 00:17:58,113 - tests.test_login_dataDriven_adv - INFO - Test Case Execution Completed.
+2023-09-25 00:17:58,113 - tests.test_login_dataDriven_adv - INFO - --------------------------------

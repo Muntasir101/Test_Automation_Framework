@@ -4,7 +4,7 @@ from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
 from data.login_data import LoginTestData
 import logging
-from utils.config import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME
+from config.configuration import LOGGING_LEVEL, LOGGING_FORMAT, LOGGING_FILENAME
 import time
 import conftest
 from utils.excel_utils import *

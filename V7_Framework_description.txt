@@ -4,16 +4,24 @@ Very basic framework using POM.
 
 Keep Locators Separate - YES
 Keep Test data separate - YES
+
 Config - YES
 Logging - YES
+
 Conftest - YES
 Assertion - YES
+
 Wait - NO
 Pytest basic Reporting - YES
 Pytest Advanced Reporting(Using pytest HTML reporter) - Yes
+
 Data Driven - YES
-DocString - NO
-Separate Config - NO
+
+DocString - YES
+Separate Config - YES
+
+Parallel execution - NO
+
 Parametrization - NO
 Error Handling - NO
 Listeners - NO
