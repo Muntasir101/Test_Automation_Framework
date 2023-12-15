@@ -40,7 +40,7 @@ This is a basic Selenium automation framework developed in Python using the Page
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Muntasir101/Test_Automation_Framework.git
    cd your-repo
 # Install Dependencies:
 pip install -r requirements.txt
